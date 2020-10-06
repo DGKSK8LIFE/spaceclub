@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body{
+  height: 100%;
+  background-color: #1C1D2D;
+}
+
+#all {
+  margin: 10px
+}
+
+#h1 {
+  color: MidnightBlue ;
+  font-family: Alatsi, sans-serif;
+  border-color: black;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 64px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+#h2 {
+    color: #1D431F ;
+    font-family: Alatsi, sans-serif;
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    margin: 10px;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+#h3 {
+    color: white ;
+    font-family: Alatsi, sans-serif;
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 30px;
+    margin: 10px;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+#h4 {
+    color: white ;
+    font-family: Alatsi, sans-serif;
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 18px;
+    margin: 10px;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+#thin-red-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#background-box1 {
+    background-color: gold;
+    padding: 30px;
+    border-radius: 0px;
+    margin: 9px -9px 0px -9px;
+}
+
+#background-box2 {
+    background-color: #1C1D2F;
+    padding: 30px;
+    border-radius: 0px;
+    margin: 9px -9px 0px -9px;
+}
+
+#logo {
+  margin: 0px 0px -105px 0px;
+}
+
+#button {
+  background-color: white;
+  border: none;
+  color: Black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: Alatsi, sans-serif;
+}
+
+#memberslist {
+  color: white ;
+  font-family: Alatsi, sans-serif;
+  border-color: black;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 18px;
+  margin: 10px;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+#memberslist1 {
+  color: white ;
+  font-family: Alatsi, sans-serif;
+  border-color: black;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 24px;
+  margin: 10px;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+#underline {
+  text-decoration: underline;
+  color: blue;
+}
+
+#footer {
+    float: right;
+    margin-top: 73px;
+    width: 100%;
+    background-color: #222;
+    padding: 10px
+}
+
+#footerT {
+  color: white ;
+  font-family: Alatsi, sans-serif;
+  border-color: black;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 14px;
+  margin: 10px;
+  float: left;
+}
