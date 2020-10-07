@@ -1,2 +1,8 @@
 # spaceclub
-Awty's Aerospace Club
+
+Website for Awty Aerospace Club.
+
+## Tech Stack
+
+- HTML
+- CSS
